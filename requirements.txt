@@ -1,0 +1,9 @@
+### `requirements.txt` (for this repo)
+```txt
+fastai
+torch
+torchvision
+pandas
+numpy
+matplotlib
+scikit-learn
